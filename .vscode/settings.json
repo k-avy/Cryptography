@@ -1,0 +1,33 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "byte_order.h": "c",
+        "memzero.h": "c",
+        "base58.h": "c",
+        "address.h": "c",
+        "sha2.h": "c",
+        "ripemd160.h": "c",
+        "hmac.h": "c",
+        "options.h": "c",
+        "rand.h": "c",
+        "rfc6979.h": "c",
+        "hmac_drbg.h": "c",
+        "secp256k1.h": "c",
+        "sha3.h": "c",
+        "bignum.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "script.h": "c",
+        "zkp_ecdsa.h": "c",
+        "blake2b.h": "c",
+        "blake2_common.h": "c",
+        "curves.h": "c",
+        "cardano.h": "c",
+        "nist256p1.h": "c",
+        "pbkdf2.h": "c",
+        "groestl_internal.h": "c",
+        "ecdsa.h": "c",
+        "ed25519-keccak.h": "c",
+        "nem.h": "c"
+    }
+}
